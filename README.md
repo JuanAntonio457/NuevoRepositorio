@@ -1,5 +1,5 @@
 # Presentación
-**Bienvenidos a _MI_ programa :)**
+**Bienvenidos a _NUESTRO_ programa :)**
 ## Uso
 **Hay tres programas, uno pasa los numeros a *binario* , uno de binario a decimal y otro de binario a hexadecimal (flipa).**
 ### Material necesario para ejecutarlo
